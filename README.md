@@ -1,4 +1,4 @@
 # OlaMundo
- Meu primeiro repositorio
- primeira alteração via vscode
- segunda alteração via vscode
+ Meu primeiro repositorio\n
+ primeira alteração via vscode \n
+ segunda alteração via vscode \n
